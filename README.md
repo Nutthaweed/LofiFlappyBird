@@ -1,4 +1,4 @@
-<h1>LOFI FLAPPYBBIRD</h1>
+<h1>LOFI FLAPPYBIRD</h1>
 <h2 align="left">🐍This is my game that created with Panda3d, Pygame, PyopenGL and Pyglet🐍</h2>
 
 <p align="center">
